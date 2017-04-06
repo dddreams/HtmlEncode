@@ -5,4 +5,4 @@
 HtmlEncode.java 
 
 ## javascript 实现
-html_encode.js 这是一个简单的实现，也可以使用[js-htmlencode](https://github.com/emn178/js-htmlencode) 库
+html_encode.js 这是一个简单的实现，也可以使用 [js-htmlencode](https://github.com/emn178/js-htmlencode) 库
