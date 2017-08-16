@@ -18,6 +18,6 @@ public class HtmlEncode {
                 out.append(c);
             }
         }
-        return out.toString();
+        return out.toString().replaceAll(" ", "");
     }
 }
